@@ -2,7 +2,10 @@
 gelayu ne soiti s uma
 987654321
 s toboi vse horosho
-<<<<<<< HEAD
-=======
 
->>>>>>> a75d80b0f790f49ea15447a846e95d94b801d2b1
+
+changes from branch test
+privet c 7 uroka
+1234
+eto opyat ya
+
